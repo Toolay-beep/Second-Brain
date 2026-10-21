@@ -1,0 +1,5 @@
+{
+  "_comment": "PLACEHOLDER numbers (USD per million tokens). Replace with your provider's current list price or contracted rate. Multipliers default to 1.25 / 2.0 / 0.1 (prompt-caching docs, SOURCES.md S5); override per model where the docs list an exception.",
+  "model-a": {"input_per_mtok": 1.0, "output_per_mtok": 5.0},
+  "model-b": {"input_per_mtok": 3.0, "output_per_mtok": 15.0, "multipliers": {"cache_read": 0.1}}
+}

@@ -1,0 +1,4 @@
+{"agent": "planner", "model": "model-a", "tag": "issue-1", "usage": {"input_tokens": 1200, "output_tokens": 900, "cache_creation_input_tokens": 8000, "cache_read_input_tokens": 0, "cache_creation": {"ephemeral_5m_input_tokens": 8000, "ephemeral_1h_input_tokens": 0}}}
+{"agent": "coder", "model": "model-b", "tag": "issue-1", "usage": {"input_tokens": 400, "output_tokens": 2500, "cache_creation_input_tokens": 0, "cache_read_input_tokens": 8000}}
+{"agent": "coder", "model": "model-b", "tag": "issue-1", "usage": {"input_tokens": 650, "output_tokens": 1800, "cache_creation_input_tokens": 0, "cache_read_input_tokens": 9200}}
+{"agent": "reviewer", "model": "model-a", "tag": "issue-1", "usage": {"input_tokens": 3000, "output_tokens": 400, "cache_creation_input_tokens": 0, "cache_read_input_tokens": 0}}

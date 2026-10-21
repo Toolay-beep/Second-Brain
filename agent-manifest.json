@@ -1,0 +1,116 @@
+{
+  "algorithm": "sha256",
+  "dirs": {
+    ".": "c16290497978b75effc4184c716fdae0f779b89b95786645ae29702630419106",
+    "agentkit": "41851c4eb7a20f6b6d91541b5351167fbf1faccefa780dffa952686f5020ae11",
+    "examples": "ef5bc7d15bfb77ace27fc6490d3fd6cb6f6a3da4c6961754942e4f2ead4122ba",
+    "notes": "84010598f3507e1194833d2e711a29c8c3751761f6a1901f7e21abd34069ccb5",
+    "scripts": "fd2cb2e8088d50baab8b01c308b5a6d5b0dc5f3c86f7b4c6bdbe207736f006f8",
+    "tests": "aca2da12d5b073d80d795ba7fc4fec14a987ad0b015d67beb88590f5dec88064"
+  },
+  "file_count": 25,
+  "files": {
+    ".gitignore": {
+      "bytes": 34,
+      "sha256": "6f4ff2992c4e2558837e2e09c39ed2bba140658755b22d046aab810ea2c90ca0"
+    },
+    ".manifestignore": {
+      "bytes": 117,
+      "sha256": "38184d982d2ad439054533efa137a46592187992f99c3b194ab0a7ba6aab730f"
+    },
+    "AGENTS.md": {
+      "bytes": 897,
+      "sha256": "18b9f06820e80c7d4580a23df26e80560fb3ec19062fe33c8908849698e61146"
+    },
+    "Makefile": {
+      "bytes": 330,
+      "sha256": "b0aa4384dcd32c6ad2b8242d33bd54d6d806149a7162f7f2102c13b7a869fbdd"
+    },
+    "README.md": {
+      "bytes": 1839,
+      "sha256": "4417a01c533c582135e62e5a77493488fc03b7ab2e91ae4e8643154b37423467"
+    },
+    "SOURCES.md": {
+      "bytes": 5333,
+      "sha256": "fa019e03b800c653862d0d408a69e33610c1a69affd51c0f039fc3401e79a5ce"
+    },
+    "agentkit/__init__.py": {
+      "bytes": 520,
+      "sha256": "6099f8b68c95361279271f62c8164cf579cd744e305332dc2cbde019f3da91e8"
+    },
+    "agentkit/budget.py": {
+      "bytes": 5819,
+      "sha256": "c97ed5add984d6d8e4b1d0624b93d21853aad27a6cfe92c82014474af484644f"
+    },
+    "agentkit/compress.py": {
+      "bytes": 3040,
+      "sha256": "9e28e59eecec09921ed26ef92e82512411246100b53c6f6e616150238eff96ce"
+    },
+    "agentkit/heal.py": {
+      "bytes": 3344,
+      "sha256": "f22a3da8d74eb1d889d39bc1a901dc15e8fd8604daa73ab763bdd5f9a731ada3"
+    },
+    "agentkit/manifest.py": {
+      "bytes": 5496,
+      "sha256": "303b76bce813cbb7c9b2d5dff3f3c3e56973dc00a938441731a7413cfdd96389"
+    },
+    "agentkit/spend.py": {
+      "bytes": 6080,
+      "sha256": "f3696ed3e80bdae6019c2d435214834a930be7d132f7f70e7a9cb524defcc471"
+    },
+    "examples/prices.example.json": {
+      "bytes": 426,
+      "sha256": "3aaf7ecebf47d2aaf6657eb46f34e7ffcee9eac30529cb3cc0ae3d6addb91717"
+    },
+    "examples/usage.sample.jsonl": {
+      "bytes": 805,
+      "sha256": "4cb58ee4b15ca0dee3c7154ad160ae728e815479b49ad8ac66c18a08be341408"
+    },
+    "notes/01-agentic-sdlc.md": {
+      "bytes": 2618,
+      "sha256": "8f271dfb56ee9609d3bc332aeb3517ae571840832111a9e36e68c275406eb0d0"
+    },
+    "notes/02-token-spend-analytics.md": {
+      "bytes": 2199,
+      "sha256": "70b6b545d4d26a1c8263df7b492614957ebc11bb1e9a6177861d0c4a1769739a"
+    },
+    "notes/03-token-conscious-loops.md": {
+      "bytes": 2314,
+      "sha256": "f941e88c823b4f5cf07ae444bbcc6326f67f3ec910032469885b1f551e58fa05"
+    },
+    "notes/04-agentic-swarm-controls.md": {
+      "bytes": 2179,
+      "sha256": "72defa90c47d27b7e98bfda867a99fae7177d3a915328836205afa21e916129c"
+    },
+    "notes/05-context-compression.md": {
+      "bytes": 2376,
+      "sha256": "4748ddefb71822f48f4ac2f61036d6e54e4c4f5abf29e406b230161eb028b420"
+    },
+    "notes/06-deterministic-delivery-pipelines.md": {
+      "bytes": 2043,
+      "sha256": "92a08befba2eaa9e3731bca5a47a118fec9aa085529fe431927c9f549a18757e"
+    },
+    "notes/07-agentic-manifest-and-hashing.md": {
+      "bytes": 1913,
+      "sha256": "2ef79e0a1c684de1873556ce2f4e1ccba60bb460516825ade6f421ad88602815"
+    },
+    "notes/08-self-healing-agents.md": {
+      "bytes": 1846,
+      "sha256": "aa2d8545d9ba4006c277084d8ea2dc8417267fd9eeb74f8d2b1226d1ba88bc02"
+    },
+    "scripts/pipeline.sh": {
+      "bytes": 735,
+      "sha256": "0d1eba500e79dbe909c95ebf98cb1d197d2dc4efad07e4a08e8f4069b09a489c"
+    },
+    "tests/__init__.py": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "tests/test_agentkit.py": {
+      "bytes": 9207,
+      "sha256": "c0facc16bb2289e598612f3cb303e19e91d6dd8b778715b9938a40b2f7c2ce58"
+    }
+  },
+  "root_digest": "c16290497978b75effc4184c716fdae0f779b89b95786645ae29702630419106",
+  "schema": "agentkit.manifest/1"
+}

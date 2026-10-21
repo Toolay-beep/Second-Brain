@@ -1,0 +1,1 @@
+# fnmatch patterns; trailing / = directory. Defaults already exclude .git/, __pycache__/, *.pyc, agent-manifest.json
